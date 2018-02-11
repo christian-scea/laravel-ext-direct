@@ -1,11 +1,11 @@
 {
-    "name": "bulforce/ext-direct",
+    "name": "christian/ext-direct",
     "description": "Laravel ExtJS/Sencha direct provider",
     "keywords": ["extjs", "extdirect", "laravel"],
     "authors": [
         {
-            "name": "bulforce",
-            "email": "bulforce@gmail.com"
+            "name": "christian",
+            "email": "no@no.com"
         }
     ],
     "require": {
